@@ -6,12 +6,12 @@ require 'lorem_ipsum_kbbushman/version'
 Gem::Specification.new do |spec|
   spec.name          = "lorem_ipsum_kbbushman"
   spec.version       = LoremIpsumKbbushman::VERSION
-  spec.authors       = ["kbbushman"]
+  spec.authors       = ["Kenneth Bushman"]
   spec.email         = ["k.bushman@yahoo.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Lorem Ipsum Generator.}
+  spec.description   = %q{A simple gem for generating lorem ipsum.}
+  spec.homepage      = "https://github.com/kbbushman/lorem-ipsum-kbbushman"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
